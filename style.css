@@ -8,7 +8,7 @@ ul{
     margin: o;
     padding: 0;
     overflow: hidden;
-    background: navy;
+    background: green;
     position: fixed;
     top: 0;
     width: 100%;
@@ -27,7 +27,7 @@ li a{
 }
 
 li a:hover{
-    background: lime;
+    background: #FBAE1C;
     color: black;
 }
 
