@@ -24,12 +24,12 @@ nav.navbar li a{
 }
 
 nav.navbar li a:hover{
-    background: #FBAE1C;
+    background: yellow;
     color: black;
 }
 
 nav.navbar li a.active{
-    background:#FBAE1C;
+    background:yellow;
     color: black;
 }
 
